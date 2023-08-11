@@ -22,11 +22,11 @@ You can learn more about the kernel module [[https://github.com/dakkshesh07/Kpro
 ** 1) Clone this repository to the specified directory
 
 #+BEGIN_SRC shell
-git clone https://github.com/CannedShroud/android_packages_apps_KProfiles packages/apps/KProfiles 
+git clone https://github.com/KProfiles/android_packages_apps_Kprofiles packages/apps/KProfiles
 #+END_SRC
 
 ** 2) Pick the following change in your device tree and build it as it is :)
-https://github.com/PixelOS-Devices/device_oneplus_sm8150-common/commit/52c5ff8fbc1bc758ffd7e7e6ad9a8b103daa9605
+https://github.com/Dev-msm8953/android_device_xiaomi_daisy/commit/a92a249b94a1808ccc77f175d5e6429d47adaf3c
 
 * Purpose
 
